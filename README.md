@@ -2,6 +2,7 @@
 ## AI Girlfriend
 | Website | Starting Price | Pricing Model | Subscription Options | Payment Methods | Platforms |
 |---------|----------------|---------------|----------------------|-----------------|-----------|
+| [MATE.AI](https://aimate.me) | $1.99 | FREEMIUM AND PAID | MONTHLY AND ONE-TIME PAYMENT | Credit Cards | Mac/IOS,Windows,Android |
 | [DreamGF](https://dreamgf.ai) | $7.99 | FREEMIUM AND PAID | MONTHLY, QUARTERLY, AND ANNUALLY | Credit Cards | Windows,Mac/IOS,Android |
 | [Candy.ai](https://candy.ai) | $5.99 | FREEMIUM AND PAID | MONTHLY, ANNUALLY, AND ONE-TIME PAYMENT | Credit Cards | Mac/IOS,Windows,Android |
 | [FantasyGF](https://fantasygf.ai) | $9.97 | FREEMIUM AND PAID | BUY CREDITS | Credit Cards | Windows,Mac/IOS,Android |
